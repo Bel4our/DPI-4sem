@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="A1dPkbl0siEuilR-5R8X">
+    <mxGraphModel dx="868" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-30" value="Название" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-31" value="Участники" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-32" value="Предусловие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-33" value="Триггер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-34" value="Базовый сценарий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="90" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-35" value="Результат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-37" value="Заказ торта через каталог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-38" value="Екатерина Иванова(организатор мероприятий)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-40" value="Пользователь знает, что хочет заказать торт для мероприятия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-41" value="Пользователь открывает сайт кондитерской" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-43" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Пользователь заходит на сайт&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Выбирает раздел &quot;Каталог товаров&quot;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.Использует фильтры для поиска подходящего товара&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.Просматривает фото и описание тортов&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5. Выбирает торт и добавляет его в корзину&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6. Указывает количество размер и дату доставки&lt;/div&gt;&lt;div style=&quot;&quot;&gt;7. Оформляет заказ, вводя данные для оплаты и доставки&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-44" value="Пользователь успешно оформил заказ торта через сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="670" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-45" value="Название" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-46" value="Участники" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-47" value="Предусловие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-48" value="Триггер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-49" value="Базовый сценарий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-50" value="Результат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-51" value="Использование конструктора тортов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-52" value="Алексей Морозов(дизайнер)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-53" value="Пользователь хочет создать уникальный торт по своему дизайну" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-54" value="Пользователь открывает раздел &quot;Конструктор тортов&quot; на сайте" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Пользователь заходит на сайт&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Выбирает раздел &quot;Конструктор тортов&quot;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.Выбирает форму, размер и основу торта&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.Добавляет декоративные элементы и выбирает цветовую гамму&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5. Просматривает визуализацию торта.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6. Консультируется с кондитером через онлайн-чат для уточнения деталей&lt;/div&gt;&lt;div style=&quot;&quot;&gt;7. Оформляет заказ, вводя данные для оплаты и доставки&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="970" y="460" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-56" value="Пользователь успешно оформил заказ торта через сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="700" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-57" value="Название" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-58" value="Участники" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-59" value="Предусловие" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-60" value="Триггер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-61" value="Базовый сценарий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="460" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-62" value="Результат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-63" value="Поиск диетических десертов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-64" value="Ольга Козлова(фитнес-тренет)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-65" value="Пользователь ищет десерты без сахара и глютена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-66" value="Пользователь открывает сайт кондитерской" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="430" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-67" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Пользователь заходит на сайт&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2. Выбирает раздел &quot;Диетические десерты&quot;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Использует фильтры для поиска подходящих десертов&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4.Просматривает описание и состав&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5. Выбирает десерт и добавляет его в корзину&lt;/div&gt;&lt;div style=&quot;&quot;&gt;6. Указывает количество и дату доставки&lt;/div&gt;&lt;div style=&quot;&quot;&gt;7. Оформляет заказ, вводя данные для оплаты и доставки&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="460" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aKJ6ZVWb_qw6QM9ciWA3-68" value="Пользователь успешно оформил заказ торта через сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="660" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
